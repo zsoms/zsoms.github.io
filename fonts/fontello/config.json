@@ -7,15 +7,21 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
-      "css": "facebook-1",
-      "code": 61594,
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "facebook-squared",
+      "code": 62216,
       "src": "fontawesome"
     },
     {
       "uid": "20fc52f9a88bb7bda023ef209acac095",
       "css": "graduation-cap",
       "code": 61853,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
       "src": "fontawesome"
     }
   ]
